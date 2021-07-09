@@ -11,7 +11,7 @@ export default class Products extends Component {
                 <div className='details'>
                     <div className='image'><img src={picpic} alt="logo"width="193" height="130"></img></div>
                 </div>
-                <div className='productName'>&nbsp;Product Name&nbsp;&nbsp;</div>
+                <div className='productName'>Product Name</div>
                 <div className='productDescription' style={{width:'100vh', display: 'flex', justifyContent:'center'}}>&nbsp;Product Description&nbsp;&nbsp;</div>
                 
                 <div className='buy'>

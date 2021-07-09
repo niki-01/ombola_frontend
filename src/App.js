@@ -2,7 +2,6 @@ import './App.css';
 import './Components/Products';
 import Products from './Components/Products';
 import AddProduct from './Components/AddProduct';
-//import routes from './Components/routes'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { Component } from 'react';
 
